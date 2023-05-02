@@ -155,7 +155,10 @@ No known bugs at this time.
 
 ## Authors
 Hilary Titus Naor - [Github](https://github.com/hilarytn) 
+
 Michael Abiaw - [Github](https://github.com/michaelabiaw)
- 
+
+Samuel Boamah - [Github](https://github.com/samboamah) / [Twitter](https://twitter.com/samboamah_)
+
 ## License
 Public Domain. No copy write protection. 
